@@ -12,9 +12,8 @@ print(sum_of_numbers(first_number, second_number))
 import datetime
 def print_current_time_and_task(functions):
     current_time = datetime.datetime.now()
-    current_time = current_time.strftime("%Y-%m-%d %H:%M:%S")
     return print(f"Current time: {current_time}, Task: {functions}")
 
 
-git config --global user.name "venkat1475
+git config --global user.name "venkat1475"
 git config --global user.email "venkatasaikrishna91590@gmail.com"
